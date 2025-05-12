@@ -46,5 +46,5 @@ python main.py
 ### Run the GUI version:
 
 cd awe_store
-python3 gui.py
+python gui.py
 
